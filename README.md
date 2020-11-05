@@ -11,9 +11,7 @@ Instruction for using this
 7) click apply
 8) Add the following filters to your Ubo My Filters Tab
 
-||disqus.com/forums/*/embed.js$script,redirect=disqus_forums_embed.js
-||disqus.com/embed.js$script,redirect=disqus_embed.js
-||disqus.com/count.js$script
-@@||disqus.com/embed.js?_=1457540*$script
-
-9) Success
+- ||disqus.com/forums/*/embed.js$script,redirect=disqus_forums_embed.js
+- ||disqus.com/embed.js$script,redirect=disqus_embed.js
+- ||disqus.com/count.js$script
+- @@||disqus.com/embed.js?_=1457540*$script
